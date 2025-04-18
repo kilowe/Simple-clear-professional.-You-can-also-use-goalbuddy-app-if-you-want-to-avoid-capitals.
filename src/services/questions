@@ -1,0 +1,39 @@
+// those are all kind of question tested in our chatbot
+
+when is the next france match ?
+When is the next match between Denmark and England?
+When is the next match between DRC and Cameroon?
+
+When is the next match between Barcelona and Real Madrid?
+What is the date of the next game between Manchester United and Liverpool?
+Can you tell me when Bayern Munich will play against Borussia Dortmund next?
+When do Chelsea and Arsenal face each other again?
+When is the next encounter between Juventus and Inter Milan?
+When will Paris Saint-Germain play against Olympique Lyonnais?
+When is the next match scheduled between AC Milan and Napoli?
+What is the date for the next clash between Manchester City and Tottenham?
+When are Atletico Madrid and Sevilla playing next?
+Can you tell me when the next match between Ajax and PSV Eindhoven is?
+When is the next fixture between Roma and Lazio?
+When do FC Porto and Benfica play against each other?
+When is the next game between Santos and Palmeiras?
+When will Flamengo and Fluminense meet again?
+When is the next match between New York Red Bulls and LA Galaxy?
+
+//leading (question for leading "intent")
+
+What is the current standings of the Premier League?
+Show me the league table for La Liga.
+Who is at the top of the Bundesliga table?
+How is the Ligue 1 standings?
+Can you display the Serie A rankings?
+What are the standings in the Eredivisie?
+Give me the latest standings in the UEFA Champions League.
+Who is leading the Primeira Liga?
+What does the Championship table look like?
+Where does Manchester City stand in the Premier League?
+Can you show the top teams in La Liga?
+What is the current league table for Serie A?
+How does the Bundesliga standings look?
+Who are the top 5 teams in the Ligue 1 standings?
+Give me the league rankings for the European Championship.
